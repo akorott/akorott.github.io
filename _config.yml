@@ -1,2 +1,2 @@
-baseurl: /My_site
+baseurl: /site
 exclude: ['README.md']
